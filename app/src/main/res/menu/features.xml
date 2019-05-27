@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/delete_notes" android:title="Delete All Notes">
+
+    </item>
+    <item android:id="@+id/sort_dates" android:title="Sort By Date">
+
+    </item>
+
+</menu> 
